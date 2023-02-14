@@ -66,13 +66,11 @@ Final reports/output of the research
 
 
 # Guidelines for Sharing
-
-How UX Researchers socialize research findings.
 When we drive our own research projects, it means we're also responsible for socializing those insights. The most effective way to do that is as follows:
 
-Create a brief into on what was done. (Example: Hi team! I recently finished a tree test :deciduous_tree: on the left sidebar navigation focused in the Monitor, Infrastructure, Deployments, and Packages & Registries items with experienced GitLab users. I'm excited to share the key insights :star: :)
+Create a brief into on what was done. 
 List 3-4 bullets with the key insights. These should not include any detail - just very short sentences on the high-level findings.
-Links to the: Research report, Video readout, Data sheet, Research issue, Dovetail project
+Links to the: Research plan, Report, Research issue, and any ongoing action items 
 A 'Next steps' sections that includes bullets on what will be happening as a result of the research. These should be links to issues that are actionable insights.
 
 
